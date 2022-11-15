@@ -24,4 +24,4 @@
 
 ---
 
-_This README makd by  [hojncode](https://github.com/hojncode)_
+_This README made by  [hojncode](https://github.com/hojncode)_
